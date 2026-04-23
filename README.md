@@ -16,8 +16,7 @@ Now I do data engineering at big tech - EHS, physical security systems, complian
 
 [![thehomelab.lol](https://img.shields.io/badge/thehomelab.lol-58A6FF?style=flat-square&logo=rss&logoColor=white)](https://thehomelab.lol)&nbsp;
 [![public-homelab](https://img.shields.io/badge/public--homelab-238636?style=flat-square&logo=docker&logoColor=white)](https://github.com/davidrusho/public-homelab)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidrusho/)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=davidrusho&style=flat-square&color=gray&label=views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidrusho/)
 
 ---
 
