@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=data+engineer.+homelab+operator.;former+acrobat.+coach.+teacher.;building+in+public+%E2%86%92+thehomelab.lol" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=0969DA&center=false&vCenter=true&width=500&lines=data+engineer.+homelab+operator.;former+acrobat.+coach.+teacher.;building+in+public+%E2%86%92+thehomelab.lol" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=data+engineer.+homelab+operator.;former+acrobat.+coach.+teacher.;building+in+public+%E2%86%92+thehomelab.lol" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=data+engineer.+homelab+operator.;computational+linguist.+nlp+tinkerer.;3d+printing.+open+source.+big+data.;building+in+public+%E2%86%92+thehomelab.lol" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=0969DA&center=false&vCenter=true&width=500&lines=data+engineer.+homelab+operator.;computational+linguist.+nlp+tinkerer.;3d+printing.+open+source.+big+data.;building+in+public+%E2%86%92+thehomelab.lol" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=data+engineer.+homelab+operator.;computational+linguist.+nlp+tinkerer.;3d+printing.+open+source.+big+data.;building+in+public+%E2%86%92+thehomelab.lol" />
 </picture>
 
 <br/>
@@ -18,18 +18,12 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 
 ---
 
-**now**
-
-- writing homelab content at **[thehomelab.lol](https://thehomelab.lol)** - for people running serious infrastructure in small spaces
-- maintaining **[public-homelab](https://github.com/davidrusho/public-homelab)** - 24+ production Docker stacks, open source
-- self-hosted: Proxmox · Docker · Plex · Frigate · Home Assistant · Vaultwarden
-
 **stack**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,bash,js,ts,html,css,docker,postgres,linux,git&theme=dark&perline=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,bash,js,ts,html,css,docker,postgres,linux,git&theme=light&perline=10" />
-  <img alt="Skills" src="https://skillicons.dev/icons?i=python,bash,js,ts,html,css,docker,postgres,linux,git&theme=dark&perline=10" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cbash%2Cjs%2Cts%2Chtml%2Ccss%2Cdocker%2Cpostgres%2Clinux%2Cgit&theme=dark&perline=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cbash%2Cjs%2Cts%2Chtml%2Ccss%2Cdocker%2Cpostgres%2Clinux%2Cgit&theme=light&perline=10" />
+  <img alt="Skills" src="https://skillicons.dev/icons?i=python%2Cbash%2Cjs%2Cts%2Chtml%2Ccss%2Cdocker%2Cpostgres%2Clinux%2Cgit&theme=dark&perline=10" />
 </picture>
 
 ---
