@@ -6,11 +6,9 @@
 
 <br/>
 
-I came up through an unusual path. Taught English in Bangkok and Hong Kong. Performed as an acrobat across Southeast Asia and at every major theme park in Central Florida - Tarzan, Spider-Man, Disney Prince, and yes, a starfish. Coached gymnastics and cheerleading for a decade, including at Camp Woodward alongside Olympic and X-Games athletes.
+I like data, making things, and figuring out why they broke.
 
-Moved into public school administration, where I got my start in data: aggregating test scores, killing paper workflows, and giving staff back their time.
-
-Now I do data engineering at big tech - EHS, physical security systems, compliance tooling. Teams that don't normally get engineers. Led global contact-tracing infrastructure during COVID. I run homelab infrastructure at home because the problems are real and the stakes are low.
+homelabbing · 3d printing · big data · coding things that probably already exist
 
 ---
 
