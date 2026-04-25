@@ -5,6 +5,9 @@ on:
     - cron: "0 6 * * *"   # daily at 6am UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -14,7 +17,7 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://thehomelab.lol/rss.xml"
+          feed_list: "https://thehomelab.lol/index.xml"
           max_post_count: 5
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
