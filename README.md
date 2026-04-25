@@ -24,4 +24,9 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 
 **latest from thehomelab.lol**
 
-<!-- BLOG-POST-LIST:START -->- [Adding Giscus Comments to Hugo](https://thehomelab.lol/articles/20251201_hugo_giscus_comments/) - Dec 01, 2025- [Using Callouts in Hugo](https://thehomelab.lol/articles/20251201_hugo_callouts/) - Dec 01, 2025- [About](https://thehomelab.lol/about/) - Aug 25, 2025- [My $130/Year Evernote Replacement: Paperless-ngx + GitOps](https://thehomelab.lol/articles/paperless_ngx_evernote_replacement/) - Aug 25, 2025- [The Lab: Hardware &amp; Specs](https://thehomelab.lol/gear/20251130_hardware/) - Nov 30, 2023<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --> 
+- [Using a Local LLM to Auto-File Documents in Paperless-ngx](https://thehomelab.lol/articles/paperless_ai_pipeline/)
+- [Adding Giscus Comments to Hugo](https://thehomelab.lol/articles/20251201_hugo_giscus_comments/)
+- [My $130/Year Evernote Replacement: Paperless-ngx + GitOps](https://thehomelab.lol/articles/paperless_ngx_evernote_replacement/)
+
+<!-- BLOG-POST-LIST:END -->
