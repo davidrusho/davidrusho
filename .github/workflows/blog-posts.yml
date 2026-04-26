@@ -15,13 +15,47 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://thehomelab.lol/index.xml"
-          max_post_count: 3
-          readme_path: README.md
-          comment_tag_name: BLOG-POST-LIST
-          template: "- [$title]($url)\n"
-          filter_urls: "https://thehomelab.lol/about/,https://thehomelab.lol/gear/"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch and inject latest articles
+        run: |
+          python3 - << 'PYEOF'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import re
+
+          FEED_URL = "https://thehomelab.lol/index.xml"
+          SKIP_PATTERNS = ["/about/", "/gear/"]
+          MAX_POSTS = 3
+
+          with urllib.request.urlopen(FEED_URL) as resp:
+              tree = ET.parse(resp)
+
+          ns = {"atom": "http://www.w3.org/2005/Atom"}
+          items = []
+          for item in tree.findall(".//item"):
+              title = item.findtext("title", "").strip()
+              link  = item.findtext("link",  "").strip()
+              if any(p in link for p in SKIP_PATTERNS):
+                  continue
+              items.append(f"- [{title}]({link})")
+              if len(items) >= MAX_POSTS:
+                  break
+
+          block = "\n".join(items) + "\n"
+
+          readme = open("README.md").read()
+          updated = re.sub(
+              r"<!-- BLOG-POST-LIST:START -->.*?<!-- BLOG-POST-LIST:END -->",
+              f"<!-- BLOG-POST-LIST:START -->\n{block}<!-- BLOG-POST-LIST:END -->",
+              readme,
+              flags=re.DOTALL,
+          )
+          open("README.md", "w").write(updated)
+          print("Updated README.md")
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "docs: update blog post list")
+          git push
