@@ -26,7 +26,8 @@ jobs:
           SKIP_PATTERNS = ["/about/", "/gear/"]
           MAX_POSTS = 3
 
-          with urllib.request.urlopen(FEED_URL) as resp:
+          req = urllib.request.Request(FEED_URL, headers={"User-Agent": "Mozilla/5.0"})
+          with urllib.request.urlopen(req) as resp:
               tree = ET.parse(resp)
 
           ns = {"atom": "http://www.w3.org/2005/Atom"}
