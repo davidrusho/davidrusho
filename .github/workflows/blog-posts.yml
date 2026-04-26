@@ -18,10 +18,10 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://thehomelab.lol/index.xml"
-          max_post_count: 5
+          max_post_count: 3
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
-          template: "- [$title]($url) - $date"
-          date_format: "mmm dd, yyyy"
+          template: "- [$title]($url)"
+          filter_urls: "https://thehomelab.lol/about/,https://thehomelab.lol/gear/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
