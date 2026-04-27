@@ -6,7 +6,7 @@
 
 <br/>
 
-I like data, making things, and figuring out why they broke.
+I like data and making things.
 
 homelabbing · 3d printing · big data · coding things that probably already exist
 
