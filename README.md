@@ -25,7 +25,7 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 **latest from thehomelab.lol**
 
 <!-- BLOG-POST-LIST:START -->
+- [Filtering AI News with Qwen3.6-27B](https://thehomelab.lol/articles/filtering-ai-news-qwen/)
 - [Adding Giscus Comments to Hugo](https://thehomelab.lol/articles/hugo-giscus-comments/)
 - [Using Callouts in Hugo](https://thehomelab.lol/articles/hugo-callouts/)
-- [Using a Local LLM to Auto-File Documents](https://thehomelab.lol/articles/paperless-ai-pipeline/)
 <!-- BLOG-POST-LIST:END -->
