@@ -23,8 +23,8 @@ jobs:
           import re
 
           FEED_URL = "https://thehomelab.lol/index.xml"
-          SKIP_PATTERNS = ["/about/", "/gear/"]
-          MAX_POSTS = 3
+          SKIP_PATTERNS = ["/about/", "/gear/", "/stack/", "/work-with-me/"]
+          MAX_POSTS = 10
 
           req = urllib.request.Request(FEED_URL, headers={"User-Agent": "Mozilla/5.0"})
           with urllib.request.urlopen(req) as resp:
