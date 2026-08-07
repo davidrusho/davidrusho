@@ -25,7 +25,13 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 **latest from thehomelab.lol**
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Hosting Foundry VTT for a Fully Remote Pathfinder Table](https://thehomelab.lol/articles/self-hosted-foundry-vtt/)
+- [Running a Palworld Dedicated Server on Proxmox](https://thehomelab.lol/articles/self-hosted-palworld-server/)
+- [Give Claude Code CLI a Status HUD (claude-hud)](https://thehomelab.lol/articles/claude-code-statusline-hud/)
 - [Creating a LLM Wiki for my Homelab](https://thehomelab.lol/articles/llm-wiki-for-my-homelab/)
 - [Filtering AI News with Qwen3.6-27B](https://thehomelab.lol/articles/filtering-ai-news-qwen/)
 - [Adding Giscus Comments to Hugo](https://thehomelab.lol/articles/hugo-giscus-comments/)
+- [Using Callouts in Hugo](https://thehomelab.lol/articles/hugo-callouts/)
+- [Using a Local LLM to Auto-File Documents](https://thehomelab.lol/articles/paperless-ai-pipeline/)
+- [My $130/Year Evernote Replacement: Paperless-ngx + GitOps](https://thehomelab.lol/articles/paperless-ngx-evernote-replacement/)
 <!-- BLOG-POST-LIST:END -->
