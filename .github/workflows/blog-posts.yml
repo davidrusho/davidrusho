@@ -22,7 +22,7 @@ jobs:
           import xml.etree.ElementTree as ET
           import re
 
-          FEED_URL = "https://thehomelab.lol/index.xml"
+          FEED_URL = "https://davidrusho.com/rss.xml"
           SKIP_PATTERNS = ["/about/", "/gear/", "/stack/", "/work-with-me/"]
           MAX_POSTS = 10
 
