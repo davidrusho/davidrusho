@@ -25,6 +25,9 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 **latest from davidrusho.com**
 
 <!-- BLOG-POST-LIST:START -->
+- [Palworld on the Xbox, streamed from Steam through Wolf](https://davidrusho.com/posts/palworld-on-xbox-via-wolf/)
+- [Connecting the Steam Frame to Wolf](https://davidrusho.com/posts/steam-frame-to-wolf/)
+- [Wolf: running Steam in a container](https://davidrusho.com/posts/wolf-steam-in-a-container/)
 - [Self-hosted Foundry VTT behind a Cloudflare tunnel](https://davidrusho.com/posts/self-hosted-foundry-vtt/)
 - [Palworld dedicated server on Proxmox](https://davidrusho.com/posts/self-hosted-palworld-server/)
 - [Claude Code status line with claude-hud](https://davidrusho.com/posts/claude-code-statusline-hud/)
