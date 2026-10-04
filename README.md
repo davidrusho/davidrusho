@@ -25,11 +25,11 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 **latest from davidrusho.com**
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting Foundry VTT for a Fully Remote Pathfinder Table](https://davidrusho.com/posts/self-hosted-foundry-vtt/)
-- [Running a Palworld Dedicated Server on Proxmox](https://davidrusho.com/posts/self-hosted-palworld-server/)
-- [Give Claude Code CLI a Status HUD (claude-hud)](https://davidrusho.com/posts/claude-code-statusline-hud/)
-- [Creating a LLM Wiki for my Homelab](https://davidrusho.com/posts/llm-wiki-for-my-homelab/)
-- [Filtering AI News with Qwen3.6-27B](https://davidrusho.com/posts/filtering-ai-news-qwen/)
-- [Using a Local LLM to Auto-File Documents](https://davidrusho.com/posts/paperless-ai-pipeline/)
-- [My $130/Year Evernote Replacement: Paperless-ngx + GitOps](https://davidrusho.com/posts/paperless-ngx-evernote-replacement/)
+- [Self-hosted Foundry VTT behind a Cloudflare tunnel](https://davidrusho.com/posts/self-hosted-foundry-vtt/)
+- [Palworld dedicated server on Proxmox](https://davidrusho.com/posts/self-hosted-palworld-server/)
+- [Claude Code status line with claude-hud](https://davidrusho.com/posts/claude-code-statusline-hud/)
+- [LLM wiki for homelab documentation](https://davidrusho.com/posts/llm-wiki-for-my-homelab/)
+- [Filtering AI news with Qwen3.6-27B](https://davidrusho.com/posts/filtering-ai-news-qwen/)
+- [Auto-filing documents with a local LLM](https://davidrusho.com/posts/paperless-ai-pipeline/)
+- [Paperless-ngx as an Evernote replacement, managed with GitOps](https://davidrusho.com/posts/paperless-ngx-evernote-replacement/)
 <!-- BLOG-POST-LIST:END -->
