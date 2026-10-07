@@ -25,6 +25,7 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 **latest from davidrusho.com**
 
 <!-- BLOG-POST-LIST:START -->
+- [Breaking down the money self-hosting could save](https://davidrusho.com/posts/homelab-vs-subscriptions/)
 - [Connecting the Steam Frame to Wolf](https://davidrusho.com/posts/steam-frame-to-wolf/)
 - [Palworld on the Xbox, streamed from Steam through Wolf](https://davidrusho.com/posts/palworld-on-xbox-via-wolf/)
 - [Wolf: running Steam in a container](https://davidrusho.com/posts/wolf-steam-in-a-container/)
@@ -34,5 +35,4 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 - [Filtering AI news with Qwen3.6-27B](https://davidrusho.com/posts/filtering-ai-news-qwen/)
 - [LLM wiki for homelab documentation](https://davidrusho.com/posts/llm-wiki-for-my-homelab/)
 - [Auto-filing documents with a local LLM](https://davidrusho.com/posts/paperless-ai-pipeline/)
-- [Paperless-ngx as an Evernote replacement, managed with GitOps](https://davidrusho.com/posts/paperless-ngx-evernote-replacement/)
 <!-- BLOG-POST-LIST:END -->
