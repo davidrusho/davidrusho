@@ -26,7 +26,7 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 
 <!-- BLOG-POST-LIST:START -->
 - [PCA study app: diagrams and decision rules for Google Cloud](https://davidrusho.com/posts/pca-study-app/)
-- [Breaking down the money self-hosting could save](https://davidrusho.com/posts/homelab-vs-subscriptions/)
+- [What self-hosted apps save over their paid versions](https://davidrusho.com/posts/homelab-vs-subscriptions/)
 - [Connecting the Steam Frame to Wolf](https://davidrusho.com/posts/steam-frame-to-wolf/)
 - [Palworld on the Xbox, streamed from Steam through Wolf](https://davidrusho.com/posts/palworld-on-xbox-via-wolf/)
 - [Wolf: running Steam in a container](https://davidrusho.com/posts/wolf-steam-in-a-container/)
