@@ -25,6 +25,7 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 **latest from davidrusho.com**
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating from Bitwarden Secrets Manager to OpenBao](https://davidrusho.com/posts/bitwarden-secrets-manager-to-openbao/)
 - [Chubby Cute Spring Cat Keychain](https://davidrusho.com/posts/chubby-spring-cat-keychain/)
 - [Turning Cloud Architect exam notes into a study app](https://davidrusho.com/posts/pca-study-app/)
 - [What self-hosted apps save over their paid versions](https://davidrusho.com/posts/homelab-vs-subscriptions/)
@@ -34,5 +35,4 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 - [Self-hosted Foundry VTT behind a Cloudflare tunnel](https://davidrusho.com/posts/self-hosted-foundry-vtt/)
 - [Palworld dedicated server on Proxmox](https://davidrusho.com/posts/self-hosted-palworld-server/)
 - [Claude Code status line with claude-hud](https://davidrusho.com/posts/claude-code-statusline-hud/)
-- [Filtering AI news with Qwen3.6-27B](https://davidrusho.com/posts/filtering-ai-news-qwen/)
 <!-- BLOG-POST-LIST:END -->
