@@ -25,6 +25,7 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 **latest from davidrusho.com**
 
 <!-- BLOG-POST-LIST:START -->
+- [Building custom mock exams for the GCP DevOps exam](https://davidrusho.com/posts/pcde-study-app/)
 - [Ansible for homelab scheduled jobs](https://davidrusho.com/posts/ansible-homelab-scheduled-jobs/)
 - [Migrating from Bitwarden Secrets Manager to OpenBao](https://davidrusho.com/posts/bitwarden-secrets-manager-to-openbao/)
 - [Chubby Cute Spring Cat Keychain](https://davidrusho.com/posts/chubby-spring-cat-keychain/)
@@ -34,5 +35,4 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 - [Palworld on the Xbox, streamed from Steam through Wolf](https://davidrusho.com/posts/palworld-on-xbox-via-wolf/)
 - [Wolf: running Steam in a container](https://davidrusho.com/posts/wolf-steam-in-a-container/)
 - [Self-hosted Foundry VTT behind a Cloudflare tunnel](https://davidrusho.com/posts/self-hosted-foundry-vtt/)
-- [Palworld dedicated server on Proxmox](https://davidrusho.com/posts/self-hosted-palworld-server/)
 <!-- BLOG-POST-LIST:END -->
