@@ -25,6 +25,7 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 **latest from davidrusho.com**
 
 <!-- BLOG-POST-LIST:START -->
+- [Homelab log, week of Oct 19](https://davidrusho.com/posts/homelab-week-2026-10-25/)
 - [Building custom mock exams for the GCP DevOps exam](https://davidrusho.com/posts/pcde-study-app/)
 - [Ansible for homelab scheduled jobs](https://davidrusho.com/posts/ansible-homelab-scheduled-jobs/)
 - [Migrating from Bitwarden Secrets Manager to OpenBao](https://davidrusho.com/posts/bitwarden-secrets-manager-to-openbao/)
@@ -34,5 +35,4 @@ homelabbing · 3d printing · big data · coding things that probably already ex
 - [Connecting the Steam Frame to Wolf](https://davidrusho.com/posts/steam-frame-to-wolf/)
 - [Palworld on the Xbox, streamed from Steam through Wolf](https://davidrusho.com/posts/palworld-on-xbox-via-wolf/)
 - [Wolf: running Steam in a container](https://davidrusho.com/posts/wolf-steam-in-a-container/)
-- [Self-hosted Foundry VTT behind a Cloudflare tunnel](https://davidrusho.com/posts/self-hosted-foundry-vtt/)
 <!-- BLOG-POST-LIST:END -->
